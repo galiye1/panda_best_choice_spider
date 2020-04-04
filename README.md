@@ -1,0 +1,2 @@
+# panda_best_choice_spider
+爬取电商平台熊猫优选所有男装的详细信息
