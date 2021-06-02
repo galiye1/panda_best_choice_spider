@@ -34,7 +34,7 @@ service-identity==18.1.0
 six==1.14.0
 stevedore==1.32.0
 Twisted==20.3.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.10
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
